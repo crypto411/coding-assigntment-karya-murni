@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Codding Assignment Karya Murni</string>
+    <string name="choose_your_city">Choose your city</string>
+    <string name="wednesday_july_22">Wednesday, July 22</string>
+    <string name="marsaw_poland">Marsaw, Poland</string>
+    <string name="weather_title">Scattered Clouds</string>
+    <string name="_28_xb0">28°</string>
+    <string name="humidity_title">Humidity</string>
+    <string name="estimated_title">Estimated</string>
+    <string name="mon">Mon</string>
+    <string name="pressure_value">%s hPa.</string>
+    <string name="humidity_value">%1$s %%</string>
+    <string name="temp_value">%d°</string>
+    <string name="add_own_town">Add own town</string>
+    <string name="btn_refresh">Refresh method</string>
+</resources>

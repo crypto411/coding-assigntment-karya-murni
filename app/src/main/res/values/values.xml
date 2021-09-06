@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="forecast_image_width">30dp</dimen>
+    <dimen name="forecast_image_height">40dp</dimen>
+    <dimen name="detail_image_width">128dp</dimen>
+    <dimen name="detail_image_height">128dp</dimen>
+    <dimen name="list_forecast_horizontal_margin">9dp</dimen>
+</resources>
